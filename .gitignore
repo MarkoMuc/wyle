@@ -1,0 +1,12 @@
+# White list
+*
+
+# Directories
+!src/
+
+# Configuration
+!.gitignore
+
+# Files
+!Cargo.toml
+!README.md
