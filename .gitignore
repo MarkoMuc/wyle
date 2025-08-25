@@ -3,6 +3,8 @@
 
 # Directories
 !src/
+!docs/
+!docs/*/*
 
 # Configuration
 !.gitignore

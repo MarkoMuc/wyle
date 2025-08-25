@@ -1,7 +1,7 @@
 # TO-DO
 
 
-# Ideas
+## Ideas
 
 1. `@` -> for commands.
     1. Add `tab` completion.
