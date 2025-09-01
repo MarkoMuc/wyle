@@ -1,6 +1,5 @@
 # TO-DO
 
-
 ## Ideas
 
 1. `@` -> for commands.
@@ -19,3 +18,7 @@
     1. BAR.
     2. NO BAR / transparent.
     3. Animations.
+5. If no window is in focus and typing (aka if desktop is in focus?) -> open wyle
+6. Running something like `cat file` or `whereis konsole` should actually do something, as in show me the text or put it into the clipboard.
+7. The same thing but for searching might actually be nice. I don't want to open a browser everytime I want to search something.
+8. Access to Browser bookmarks.
